@@ -1,6 +1,8 @@
 body{
     text-align: center;
     background: #00ECB9;
+    background-image: url(bg-about.jpg);
+    background-size: contain;
   font-family: sans-serif;
   font-weight: 100;
 }
