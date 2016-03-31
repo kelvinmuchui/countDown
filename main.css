@@ -1,3 +1,4 @@
+@import url(https://fonts.googleapis.com/css?family=Satisfy);
 body{
     text-align: center;
     background: #00ECB9;
@@ -8,10 +9,13 @@ body{
 }
 
 h1{
-  color: #396;
-  font-weight: 100;
-  font-size: 40px;
-  margin: 40px 0px 20px;
+  font-family: 'Satisfy', cursive;
+  font-size: 130px;
+  color: red;
+  mix-blend-mode: screen;
+  padding: 0;
+  margin: 0;
+  line-height: 0.5;
 }
 
 #clockdiv{
